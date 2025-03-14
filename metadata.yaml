@@ -1,0 +1,44 @@
+_repo: Le-Routier-de-la-mer-jusques-au-fleuve-de-Jourdain_75437
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Garcie, Pierre
+    aliases:
+    - Garcie-Ferrande, Pierre
+    - Garcie-Ferrando, Pierre
+    - Garcie, Pierre, called Ferrande
+    - Gracie, Pierre
+    gutenberg_agent_id: '57996'
+    url: http://www.gutenberg.org/2009/agents/57996
+    wikipedia: https://fr.wikipedia.org/wiki/Pierre_Garcie_Ferrande
+  - agent_name: Maillard, Olivier
+    alias: Maillard, Oliverius
+    deathdate: 1502
+    gutenberg_agent_id: '57997'
+    url: http://www.gutenberg.org/2009/agents/57997
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Oliver_Maillard
+    - https://fr.wikipedia.org/wiki/Olivier_Maillard
+description: ''
+gutenberg_issued: '2025-02-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75437'
+language: fr
+pgterms:marc904: https://gallica.bnf.fr/ark:/12148/bpt6k103136m
+pgterms:marc905: 20230210234656maillard
+pgterms:marc906: '1502'
+pgterms:marc907: FR
+production_note: Laurent Vogel (This file was produced from images generously made
+  available by the Bibliothèque nationale de France (BnF/Gallica))
+publication_note: '  $aRouen :$bJacques le Forestier, $c1502, pubdate 1509.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Navigation -- Early works to 1800'
+- !lcsh 'Maritime law -- France -- Early works to 1800'
+- !lcc 'G'
+- GITenberg
+title: Le Routier de la mer jusques au fleuve de Jourdain
+url: http://www.gutenberg.org/ebooks/75437
