@@ -1,5 +1,8 @@
 _repo: Le-Routier-de-la-mer-jusques-au-fleuve-de-Jourdain_75437
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 75437-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Garcie, Pierre
@@ -20,6 +23,8 @@ creator:
     - https://en.wikipedia.org/wiki/Oliver_Maillard
     - https://fr.wikipedia.org/wiki/Olivier_Maillard
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75437#Le-Routier-de-la-mer-jusques-au-fleuve-de-Jourdain
 gutenberg_issued: '2025-02-21'
 gutenberg_type: Text
 identifiers:
